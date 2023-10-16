@@ -4,9 +4,8 @@
 
 Lista de compras será desenvolvido para auxiliar donas de casas na hora de ir ao super mercado. A ideia é que seja um app simples e intuitivo, ondem o usuario consiga criar diversas listas de compras ao mesmo tempo e adicionar itens a essas listas. 
 
+A seguir disponibilizo o link que leva até o prototipo e a seguir explicarei como cada tela funcionara. 
 https://www.canva.com/design/DAFxcOnmYSo/iQcggmpGp9PRCyIryfWzZA/edit?utm_content=DAFxcOnmYSo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-A cima temos o link que leva até o prototipo e a seguir explicarei como cada tela funcionara. 
 
 ### Tela 1 
 A tela de numero um retrata o primeiro acesso que voce tem com o app. Onde você não tem nenhuma lista de compra configurada ainda. Portanto o usuario precisa clicar no botão em verde para criar uma nova lista.
